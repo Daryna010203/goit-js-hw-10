@@ -134,6 +134,10 @@ img {
   color: #808080;
 }
 
+.js-calendar {
+  width: 280px;
+}
+
 .timer {
   width: 346px;
   display: flex;
